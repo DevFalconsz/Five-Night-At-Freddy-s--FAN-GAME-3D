@@ -1,4 +1,4 @@
-# Five-Night-At-Freddy-s---FAN-GAME-3D
+# Five Night At Freddy's (FAN-GAME 3D)
 
 * Portuguese: É um fan game baseado na franquia de "Five Night At Freddy's", mas repensado totalmente para ser um game 3D podendo ser jogado tanto no "Singleplayer" como no "Multiplayer". 
 
